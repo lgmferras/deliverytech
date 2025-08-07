@@ -56,7 +56,7 @@ public class HealthController {
             "Delivery Tech API",
             "1.0.0",
             "Luis Gustavo Ferras",
-            "JDK 21",
+            "JDK 24.0.2",
             "Spring Boot 3.5.3"
        );
     }
